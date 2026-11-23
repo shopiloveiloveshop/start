@@ -1,0 +1,21 @@
+I LOVE SHOP — Catálogo inicial
+
+Contenido:
+- index.html: página de catálogo lista para publicar.
+- assets/: fotografías asociadas a los productos identificados en el Excel.
+- productos.json: datos del catálogo exportados del Excel.
+
+Cómo probar:
+1. Descomprime la carpeta.
+2. Abre index.html en Chrome o Edge.
+3. Prueba los filtros, el buscador, las variantes y los botones de WhatsApp.
+
+WhatsApp configurado: +51 983 188 547
+
+Importante:
+- La web no muestra cantidades de stock.
+- Cada pedido solicita confirmar disponibilidad por WhatsApp.
+- Los precios son los precios de venta indicados en el Excel.
+- No se incluyen costos de compra.
+- Las fotos 1.1.jpeg, 1.2.jpeg y 1.3.jpeg no se incluyeron porque no tienen una ficha coincidente en las hojas del Excel.
+- Para publicar en GitHub Pages, sube el contenido de esta carpeta a un repositorio y activa Pages desde Settings > Pages.

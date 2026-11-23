@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "1",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Crime",
+    "price": 115,
+    "variants": [
+      {
+        "color": "Negro",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "vino",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "azul",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "rosado",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "marron",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "rojo",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/1.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "2",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Lunaria",
+    "price": 105,
+    "variants": [
+      {
+        "color": "Negro",
+        "sizes": [
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/2.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "3",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Maxima",
+    "price": 95,
+    "variants": [
+      {
+        "color": "Azulino",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      },
+      {
+        "color": "Fuxcia",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      },
+      {
+        "color": "marron",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      },
+      {
+        "color": "Negro",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      },
+      {
+        "color": "Azul Noche",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      },
+      {
+        "color": "Militar",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "image": "assets/3.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "4",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Coquette",
+    "price": 95,
+    "variants": [
+      {
+        "color": "Floreado",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Celestes",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Negro",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Amarillo",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Blanco",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/4.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "5",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Flora",
+    "price": 90,
+    "variants": [
+      {
+        "color": "floreado",
+        "sizes": [
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/5.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "6",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Manil",
+    "price": 120,
+    "variants": [
+      {
+        "color": "beige",
+        "sizes": [
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "dorado",
+        "sizes": [
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "negro",
+        "sizes": [
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/6.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "7",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Serena",
+    "price": 85,
+    "variants": [
+      {
+        "color": "Lila",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Rosado",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Blanco",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Azul",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Negro",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Celeste",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "Rojo",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/7.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "8",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Rebeca",
+    "price": 105,
+    "variants": [
+      {
+        "color": "print",
+        "sizes": [
+          "XL"
+        ]
+      }
+    ],
+    "image": "assets/8.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "9",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Spiloeta",
+    "price": 105,
+    "variants": [
+      {
+        "color": "Rojo",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "negro",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "palo rosa",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "verde",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/9.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "10",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Lunis",
+    "price": 105,
+    "variants": [
+      {
+        "color": "negro",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/10.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "11",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Lunis",
+    "price": 105,
+    "variants": [
+      {
+        "color": "beige",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/11.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "12",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Griega",
+    "price": 120,
+    "variants": [
+      {
+        "color": "Amarillo",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "azulino",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "rojo",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/12.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "13",
+    "category": "Mujer",
+    "type": "Conjunto",
+    "name": "Mafer",
+    "price": 105,
+    "variants": [
+      {
+        "color": "Beige",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "azul",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/13.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "14",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Alaya",
+    "price": 120,
+    "variants": [
+      {
+        "color": "Caqui",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/14.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "15",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Shantu",
+    "price": 85,
+    "variants": [
+      {
+        "color": "verde",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "rojo",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "fuxcia",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/15.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "16",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Fresshi",
+    "price": 90,
+    "variants": [
+      {
+        "color": "verde",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "negro",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "fucxia",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "azulino",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "camello",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/16.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "17",
+    "category": "Mujer",
+    "type": "Enterizo",
+    "name": "Emti",
+    "price": 105,
+    "variants": [
+      {
+        "color": "Negro",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "camello",
+        "sizes": [
+          "Estándar"
+        ]
+      },
+      {
+        "color": "azulino",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/17.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "18",
+    "category": "Mujer",
+    "type": "Conjunto",
+    "name": "Carolina",
+    "price": 120,
+    "variants": [
+      {
+        "color": "beige",
+        "sizes": [
+          "S",
+          "M"
+        ]
+      }
+    ],
+    "image": "assets/18.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "19",
+    "category": "Mujer",
+    "type": "Conjunto",
+    "name": "Shorty",
+    "price": 120,
+    "variants": [
+      {
+        "color": "beige",
+        "sizes": [
+          "S",
+          "M"
+        ]
+      }
+    ],
+    "image": "assets/19.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "20",
+    "category": "Mujer",
+    "type": "Conjunto",
+    "name": "Canela",
+    "price": 115,
+    "variants": [
+      {
+        "color": "beige",
+        "sizes": [
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/20.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "21",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Lunita",
+    "price": 95,
+    "variants": [
+      {
+        "color": "Negro",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/21.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "22",
+    "category": "Mujer",
+    "type": "Falda",
+    "name": "Flaxi",
+    "price": 85,
+    "variants": [
+      {
+        "color": "celeste",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/22.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "23",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Marie",
+    "price": 120,
+    "variants": [
+      {
+        "color": "Blanco",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/23.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "24",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Eleonor",
+    "price": 120,
+    "variants": [
+      {
+        "color": "marron",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/24.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "25",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Vanessa",
+    "price": 120,
+    "variants": [
+      {
+        "color": "Blanco",
+        "sizes": [
+          "Estándar"
+        ]
+      }
+    ],
+    "image": "assets/25.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "26",
+    "category": "Mujer",
+    "type": "Palazzo",
+    "name": "Nate",
+    "price": 95,
+    "variants": [
+      {
+        "color": "beige",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      },
+      {
+        "color": "azul",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/26.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "27",
+    "category": "Mujer",
+    "type": "Vestido",
+    "name": "Cali",
+    "price": 120,
+    "variants": [
+      {
+        "color": "Amarillo",
+        "sizes": [
+          "M",
+          "L"
+        ]
+      }
+    ],
+    "image": "assets/27.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "2.1",
+    "category": "Hombre",
+    "type": "Short",
+    "name": "BARB",
+    "price": 90,
+    "variants": [
+      {
+        "color": "BEIGE",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "AZUL",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "NEGRO",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "GRIS",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "VERDE",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      }
+    ],
+    "image": "assets/2.1.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "2.2",
+    "category": "Hombre",
+    "type": "Camisa",
+    "name": "chuck",
+    "price": 105,
+    "variants": [
+      {
+        "color": "Negro",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "blanco",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "azul",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "negro",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "gris",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "verde",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      }
+    ],
+    "image": "assets/2.2.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "2.3",
+    "category": "Hombre",
+    "type": "Camisa",
+    "name": "Dan",
+    "price": 115,
+    "variants": [
+      {
+        "color": "Negro",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "blanco",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "azul",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "negro",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "gris",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "verde",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      }
+    ],
+    "image": "assets/2.3.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "1.4",
+    "category": "Calzado",
+    "type": "Sandalia",
+    "name": "Clata",
+    "price": 95,
+    "variants": [
+      {
+        "color": "negro",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "image": "assets/1.4.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "1.5",
+    "category": "Calzado",
+    "type": "Sandalia",
+    "name": "Malala",
+    "price": 115,
+    "variants": [
+      {
+        "color": "Azul jean",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "negro",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "negro jean",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "rojo",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "image": "assets/1.5.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "1.6",
+    "category": "Calzado",
+    "type": "Cuñas",
+    "name": "Rapunzel",
+    "price": 165,
+    "variants": [
+      {
+        "color": "negro",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "image": "assets/1.6.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "1.7",
+    "category": "Calzado",
+    "type": "Cuñas",
+    "name": "ariel",
+    "price": 160,
+    "variants": [
+      {
+        "color": "beige",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "negro",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "dorado",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "blanco",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "plateado",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "image": "assets/1.7.jpeg",
+    "image_missing": false
+  },
+  {
+    "id": "1.8",
+    "category": "Calzado",
+    "type": "Cuñas",
+    "name": "moana",
+    "price": 170,
+    "variants": [
+      {
+        "color": "negro",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "dorado",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "beige",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "color": "blanco",
+        "sizes": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "image": "assets/1.8.jpeg",
+    "image_missing": false
+  }
+]
